@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="./assets/brand-full-lockup@2x.png" alt="CODE & CHAOS : we build stuff." width="520" />
+<img src="./assets/Code_and_Chaos_logo-removebg-preview.png" alt="CODE & CHAOS : we build stuff." width="520" />
 
 <br /><br />
 

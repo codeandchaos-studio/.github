@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 210" width="100%" height="auto">
+  <defs>
+    <style>
+      .terminal-frame { fill: #272321; stroke: #3C3734; stroke-width: 1.5; rx: 14; }
+      .title-bar { fill: #1F1C1B; }
+      .title-text { fill: #F3E9D8; font-family: 'JetBrains Mono', monospace, -apple-system, sans-serif; font-size: 12px; font-weight: 600; opacity: 0.7; }
+      .command-prompt { fill: #C84435; font-family: 'JetBrains Mono', monospace; font-size: 13px; font-weight: bold; }
+      .command-text { fill: #FAF5EC; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+      .output-label { fill: #C84435; font-family: 'JetBrains Mono', monospace; font-size: 12px; font-weight: 600; }
+      .output-val { fill: #F3E9D8; font-family: 'JetBrains Mono', monospace; font-size: 12px; opacity: 0.9; }
+      .divider { stroke: #3C3734; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <!-- Window Frame -->
+  <rect x="1" y="1" width="798" height="208" class="terminal-frame" />
+
+  <!-- Top Title Bar -->
+  <path d="M 1 15 Q 1 1 15 1 L 785 1 Q 799 1 799 15 L 799 38 L 1 38 Z" class="title-bar" />
+  <line x1="1" y1="38" x2="799" y2="38" class="divider" />
+
+  <!-- Window Traffic Lights (Terminal Dots) -->
+  <circle cx="24" cy="20" r="5.5" fill="#C84435" />
+  <circle cx="42" cy="20" r="5.5" fill="#E5A83B" />
+  <circle cx="60" cy="20" r="5.5" fill="#48A968" />
+
+  <!-- Title -->
+  <text x="400" y="24" text-anchor="middle" class="title-text">code-and-chaos ~ workshop-terminal</text>
+
+  <!-- Terminal Content Lines -->
+  <text x="24" y="66">
+    <tspan class="command-prompt">$ </tspan>
+    <tspan class="command-text">status --collective</tspan>
+  </text>
+
+  <text x="24" y="98">
+    <tspan class="output-label">[ENGINEERS] </tspan>
+    <tspan class="output-val">Three developers. Independent studio. Handcrafted code only.</tspan>
+  </text>
+
+  <text x="24" y="126">
+    <tspan class="output-label">[SUBSCRIPTIONS] </tspan>
+    <tspan class="output-val">0%. No trials, no paywalls, no recurring fees. Lifetime free.</tspan>
+  </text>
+
+  <text x="24" y="154">
+    <tspan class="output-label">[TELEMETRY] </tspan>
+    <tspan class="output-val">Zero tracking. Local-first architecture on your hardware.</tspan>
+  </text>
+
+  <text x="24" y="182">
+    <tspan class="output-label">[LICENSE] </tspan>
+    <tspan class="output-val">Source-available view-only. Anti-clone &amp; anti-reverse-engineering.</tspan>
+  </text>
+</svg>

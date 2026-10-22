@@ -2,20 +2,24 @@
 
 <br />
 
-<img src="./assets/Code_and_Chaos_logo-removebg-preview.png" alt="CODE & CHAOS : we build stuff." width="520" />
+<img src="./assets/brand-full-lockup@2x.png" alt="CODE & CHAOS : we build stuff." width="520" />
+
+<br /><br />
+
+<img src="./assets/terminal-badge.svg" alt="Code & Chaos Terminal Status" width="100%" />
+
+<br /><br />
+
+[![Studio](https://img.shields.io/badge/Studio-CODE%20%26%20CHAOS-C84435?style=flat-square&labelColor=272321)](https://github.com/codeandchaos-studio)
+[![Team](https://img.shields.io/badge/Team-Three%20Developers-F3E9D8?style=flat-square&labelColor=272321&color=C84435)](https://github.com/codeandchaos-studio)
+[![Model](https://img.shields.io/badge/Model-100%25%20Free%20Lifetime-C84435?style=flat-square&labelColor=272321)](https://github.com/codeandchaos-studio)
+[![Storage](https://img.shields.io/badge/Storage-Local--First-272321?style=flat-square&labelColor=862F29)](https://github.com/codeandchaos-studio)
+[![License](https://img.shields.io/badge/License-View--Only%20Source-862F29?style=flat-square&labelColor=272321)](https://github.com/codeandchaos-studio)
 
 <br /><br />
 
 **Independent software engineering studio built by three developers.**  
 *High-utility desktop tools, mobile software, and local-first utilities. Free for lifetime with zero subscriptions.*
-
-<br />
-
-```
-========================================================================
-  STATUS: ACTIVE WORKSHOP  |  MEMBERS: 3 DEVELOPERS  |  MODEL: 100% FREE
-========================================================================
-```
 
 <br />
 
@@ -39,25 +43,27 @@ We believe in radical transparency: you deserve to see how the software you run 
 
 ## The Studio Handshake (How We Operate)
 
-We keep our blueprints out in the open so you can read, audit, and explore our work with total peace of mind. In return, we ask for a simple, calm understanding between software people:
+We keep our blueprints out in the open so you can read, audit, and explore our work with total peace of mind. In return, we ask for a simple, calm understanding between software craftspeople:
 
-> **1. Look around, inspect the gears**  
+> [!NOTE]
+> **1. Inspect the Gears (View-Only Transparency)**  
 > Every repository here is published on a **view-only basis** for technical transparency, architectural review, and security verification. You are welcome to read and study every line of code.
 
-> **2. Leave the machinery in the shop**  
+> [!IMPORTANT]
+> **2. Leave the Machinery in the Shop (No Cloning or Scraping)**  
 > Please do not clone (`git clone`), scrape, or duplicate our repositories to re-upload or repackage them. If you want to use our applications, they are already 100% free for you to download and enjoy directly from our website and release hub.
 
-> **3. No forks in the road**  
+> [!WARNING]
+> **3. No Forks in the Road (Direct Studio Releases)**  
 > Repository forking is restricted to our internal studio pipeline. We maintain our tools directly so users always get verified, safe, and stable releases without fragmented clones floating around.
 
-> **4. Honor the craftsmanship**  
+> [!CAUTION]
+> **4. Honor the Craftsmanship (Zero Reverse Engineering)**  
 > We have poured late nights and months of human engineering into these tools. Please do not decompile, reverse engineer, or extract proprietary runtime logic from our compiled binaries (`.exe`, `.apk`, `.zip`).
 
-> **5. Zero commercial exploitation**  
+> [!TIP]
+> **5. Zero Dollars to You, Forever (Zero Subscriptions / Zero Ads)**  
 > None of our software, code, or interface designs may be sold, resold, sublicensed, or wrapped into commercial products. We give our tools away freely; no one should profit off work meant for everyone.
-
-> **6. The three of us at the bench**  
-> All intellectual property, trademarks, and architectural designs remain with our three-developer collective. Full administrative, branch, and release privileges belong exclusively to our verified studio team.
 
 ---
 
@@ -75,11 +81,11 @@ We keep our blueprints out in the open so you can read, audit, and explore our w
 
 ## Active Projects
 
-| Project | Target Platforms | Concept & Focus | Status |
+| Project | Target Platforms | Technologies | Status |
 | :--- | :--- | :--- | :--- |
-| **D-Deck** | Windows, Android | Distraction-free floating task HUD with persistent audio sprint chimes. | Production Release (`v1.0.0`) |
-| **Diverge** | Web, Windows, Android | Clean music streaming client engineered to reverse Spotify-style paywalls. | In Active Build (`v0.9.1-beta`) |
-| **AR-NavSense** | Android | Native tactical pedestrian navigation utility for visually impaired walkers. | Production Release (`v1.0.4`) |
+| **D-Deck** | ![Windows](https://img.shields.io/badge/Windows-272321?style=flat-square&logo=windows&logoColor=F3E9D8) ![Android](https://img.shields.io/badge/Android-272321?style=flat-square&logo=android&logoColor=C84435) | ![Electron](https://img.shields.io/badge/Electron-272321?style=flat-square&logo=electron&logoColor=F3E9D8) ![React](https://img.shields.io/badge/React%2019-272321?style=flat-square&logo=react&logoColor=C84435) ![TypeScript](https://img.shields.io/badge/TypeScript-272321?style=flat-square&logo=typescript&logoColor=F3E9D8) | ![Release](https://img.shields.io/badge/Production-v1.0.0-C84435?style=flat-square) |
+| **Diverge** | ![Web](https://img.shields.io/badge/Web-272321?style=flat-square&logo=googlechrome&logoColor=F3E9D8) ![Windows](https://img.shields.io/badge/Windows-272321?style=flat-square&logo=windows&logoColor=F3E9D8) ![Android](https://img.shields.io/badge/Android-272321?style=flat-square&logo=android&logoColor=C84435) | ![Python](https://img.shields.io/badge/Python-272321?style=flat-square&logo=python&logoColor=C84435) ![TypeScript](https://img.shields.io/badge/TypeScript-272321?style=flat-square&logo=typescript&logoColor=F3E9D8) | ![Release](https://img.shields.io/badge/Beta-v0.9.1-862F29?style=flat-square) |
+| **AR-NavSense** | ![Android](https://img.shields.io/badge/Android-272321?style=flat-square&logo=android&logoColor=C84435) | ![Flutter](https://img.shields.io/badge/Flutter-272321?style=flat-square&logo=flutter&logoColor=C84435) ![Dart](https://img.shields.io/badge/Dart-272321?style=flat-square&logo=dart&logoColor=F3E9D8) | ![Release](https://img.shields.io/badge/Production-v1.0.4-C84435?style=flat-square) |
 
 ---
 

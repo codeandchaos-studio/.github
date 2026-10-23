@@ -84,7 +84,7 @@ We keep our blueprints out in the open so you can read, audit, and explore our w
 
 | Project | Target Platforms | Technologies | Status |
 | :--- | :--- | :--- | :--- |
-| **D-Deck** | ![Windows](https://img.shields.io/badge/Windows-272321?style=flat-square&logo=windows&logoColor=F3E9D8) ![Android](https://img.shields.io/badge/Android-272321?style=flat-square&logo=android&logoColor=C84435) | ![Electron](https://img.shields.io/badge/Electron-272321?style=flat-square&logo=electron&logoColor=F3E9D8) ![React](https://img.shields.io/badge/React%2019-272321?style=flat-square&logo=react&logoColor=C84435) ![TypeScript](https://img.shields.io/badge/TypeScript-272321?style=flat-square&logo=typescript&logoColor=F3E9D8) | [![Release](https://img.shields.io/badge/Production-v2.0.0-C84435?style=flat-square)](https://github.com/codeandchaos-studio/D-Deck/releases/tag/v2.0.0) |
+| **D-Deck** | ![Windows](https://img.shields.io/badge/Windows-272321?style=flat-square&logo=windows&logoColor=F3E9D8) ![macOS](https://img.shields.io/badge/macOS-In%20Development-862F29?style=flat-square&logo=apple&logoColor=FAF5EC) | ![Electron](https://img.shields.io/badge/Electron-272321?style=flat-square&logo=electron&logoColor=F3E9D8) ![React](https://img.shields.io/badge/React%2019-272321?style=flat-square&logo=react&logoColor=C84435) ![TypeScript](https://img.shields.io/badge/TypeScript-272321?style=flat-square&logo=typescript&logoColor=F3E9D8) | [![Release](https://img.shields.io/badge/Production-v2.0.0-C84435?style=flat-square)](https://github.com/codeandchaos-studio/D-Deck/releases/tag/v2.0.0) |
 
 ---
 

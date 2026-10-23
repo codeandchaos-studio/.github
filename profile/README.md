@@ -15,6 +15,7 @@
 [![Model](https://img.shields.io/badge/Model-100%25%20Free%20Lifetime-C84435?style=flat-square&labelColor=272321)](https://github.com/codeandchaos-studio)
 [![Storage](https://img.shields.io/badge/Storage-Local--First-272321?style=flat-square&labelColor=862F29)](https://github.com/codeandchaos-studio)
 [![License](https://img.shields.io/badge/License-View--Only%20Source-862F29?style=flat-square&labelColor=272321)](https://github.com/codeandchaos-studio)
+[![Visitors](https://hits.sh/codeandchaos-studio.pages.dev.svg?style=flat-square&label=Visitors&color=c84435&labelColor=272321)](https://codeandchaos-studio.pages.dev/)
 
 <br /><br />
 
@@ -83,9 +84,7 @@ We keep our blueprints out in the open so you can read, audit, and explore our w
 
 | Project | Target Platforms | Technologies | Status |
 | :--- | :--- | :--- | :--- |
-| **D-Deck** | ![Windows](https://img.shields.io/badge/Windows-272321?style=flat-square&logo=windows&logoColor=F3E9D8) ![Android](https://img.shields.io/badge/Android-272321?style=flat-square&logo=android&logoColor=C84435) | ![Electron](https://img.shields.io/badge/Electron-272321?style=flat-square&logo=electron&logoColor=F3E9D8) ![React](https://img.shields.io/badge/React%2019-272321?style=flat-square&logo=react&logoColor=C84435) ![TypeScript](https://img.shields.io/badge/TypeScript-272321?style=flat-square&logo=typescript&logoColor=F3E9D8) | ![Release](https://img.shields.io/badge/Production-v2.0.0-C84435?style=flat-square) |
-| **Diverge** | ![Web](https://img.shields.io/badge/Web-272321?style=flat-square&logo=googlechrome&logoColor=F3E9D8) ![Windows](https://img.shields.io/badge/Windows-272321?style=flat-square&logo=windows&logoColor=F3E9D8) ![Android](https://img.shields.io/badge/Android-272321?style=flat-square&logo=android&logoColor=C84435) | ![Python](https://img.shields.io/badge/Python-272321?style=flat-square&logo=python&logoColor=C84435) ![TypeScript](https://img.shields.io/badge/TypeScript-272321?style=flat-square&logo=typescript&logoColor=F3E9D8) | ![Release](https://img.shields.io/badge/Beta-v0.9.1-862F29?style=flat-square) |
-| **AR-NavSense** | ![Android](https://img.shields.io/badge/Android-272321?style=flat-square&logo=android&logoColor=C84435) | ![Flutter](https://img.shields.io/badge/Flutter-272321?style=flat-square&logo=flutter&logoColor=C84435) ![Dart](https://img.shields.io/badge/Dart-272321?style=flat-square&logo=dart&logoColor=F3E9D8) | ![Release](https://img.shields.io/badge/Production-v1.0.4-C84435?style=flat-square) |
+| **D-Deck** | ![Windows](https://img.shields.io/badge/Windows-272321?style=flat-square&logo=windows&logoColor=F3E9D8) ![Android](https://img.shields.io/badge/Android-272321?style=flat-square&logo=android&logoColor=C84435) | ![Electron](https://img.shields.io/badge/Electron-272321?style=flat-square&logo=electron&logoColor=F3E9D8) ![React](https://img.shields.io/badge/React%2019-272321?style=flat-square&logo=react&logoColor=C84435) ![TypeScript](https://img.shields.io/badge/TypeScript-272321?style=flat-square&logo=typescript&logoColor=F3E9D8) | [![Release](https://img.shields.io/badge/Production-v2.0.0-C84435?style=flat-square)](https://github.com/codeandchaos-studio/D-Deck/releases/tag/v2.0.0) |
 
 ---
 
